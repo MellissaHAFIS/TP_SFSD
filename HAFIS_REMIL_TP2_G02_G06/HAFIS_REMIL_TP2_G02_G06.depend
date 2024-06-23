@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1672494609 source:d:\s3\sfsd\hafis_remil_tp2_g02_g06\bib.c
+	"bib.h"
+
+1672494464 d:\s3\sfsd\hafis_remil_tp2_g02_g06\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"conio.h"
+	"interface.h"
+
+1672493216 d:\s3\sfsd\hafis_remil_tp2_g02_g06\conio.h
+	<conio.h>
+	<windows.h>
+
+1672493216 d:\s3\sfsd\hafis_remil_tp2_g02_g06\interface.h
+
+1672493216 source:d:\s3\sfsd\hafis_remil_tp2_g02_g06\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1672493216 source:d:\s3\sfsd\hafis_remil_tp2_g02_g06\interface.c
+	"bib.h"
+	<stdarg.h>
+
+1672494699 source:d:\s3\sfsd\hafis_remil_tp2_g02_g06\main.c
+	"bib.h"
+
+1672494609 source:e:\s3\sfsd\tp2_sfsd\hafis_remil_tp2_g02_g06\bib.c
+	"bib.h"
+
+1672494464 e:\s3\sfsd\tp2_sfsd\hafis_remil_tp2_g02_g06\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"conio.h"
+	"interface.h"
+
+1672493216 e:\s3\sfsd\tp2_sfsd\hafis_remil_tp2_g02_g06\conio.h
+	<conio.h>
+	<windows.h>
+
+1672493216 e:\s3\sfsd\tp2_sfsd\hafis_remil_tp2_g02_g06\interface.h
+
+1672493216 source:e:\s3\sfsd\tp2_sfsd\hafis_remil_tp2_g02_g06\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1672493216 source:e:\s3\sfsd\tp2_sfsd\hafis_remil_tp2_g02_g06\interface.c
+	"bib.h"
+	<stdarg.h>
+
+1672494699 source:e:\s3\sfsd\tp2_sfsd\hafis_remil_tp2_g02_g06\main.c
+	"bib.h"
+
